@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mostafaHaydar/static/css/main.5035568f.css",
+    "main.js": "/mostafaHaydar/static/js/main.d977ceaf.js",
+    "static/media/design.png": "/mostafaHaydar/static/media/design.9fe3e91f89959560cb5b.png",
+    "static/media/design2.png": "/mostafaHaydar/static/media/design2.f6b35aadbd9a7b58e200.png",
+    "static/media/Oswald-Light.ttf": "/mostafaHaydar/static/media/Oswald-Light.0db1d0c56bdf030d9f31.ttf",
+    "static/media/Oswald-Regular.ttf": "/mostafaHaydar/static/media/Oswald-Regular.e815068d369177121fd8.ttf",
+    "static/media/Oswald-ExtraLight.ttf": "/mostafaHaydar/static/media/Oswald-ExtraLight.91951892dbc8636d8f73.ttf",
+    "static/media/helloPic.png": "/mostafaHaydar/static/media/helloPic.e3ce4dd43749cdcb88f6.png",
+    "static/media/myPhoto.jpg": "/mostafaHaydar/static/media/myPhoto.485c04eccf0508ba293c.jpg",
+    "index.html": "/mostafaHaydar/index.html",
+    "static/media/mailEmptyBack.svg": "/mostafaHaydar/static/media/mailEmptyBack.4d1d7b1bd85e73154365c0a0cfdfd9df.svg",
+    "static/media/mailFullBack.svg": "/mostafaHaydar/static/media/mailFullBack.834abc13839ad1d7fb8610a805d506a2.svg",
+    "main.5035568f.css.map": "/mostafaHaydar/static/css/main.5035568f.css.map",
+    "main.d977ceaf.js.map": "/mostafaHaydar/static/js/main.d977ceaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5035568f.css",
+    "static/js/main.d977ceaf.js"
+  ]
+}
